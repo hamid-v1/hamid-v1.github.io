@@ -11,7 +11,7 @@ timezone: Asia/Karachi
 # jekyll-seo-tag settings
 title: Hamid devs
 
-tagline: CTF Writeups, Offensive Tooling & Cybersecurity Blogs
+tagline: CTF/HTB Writeups, Offensive Tooling & Cybersecurity Blogs
 
 description: >-
   A collection of CTF writeups, security research, custom offensive
