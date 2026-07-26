@@ -10,10 +10,17 @@ I'm Hamid — I spend my time breaking things apart to understand how they work,
 
 ## What You'll Find Here
 
-- **CTF Writeups** — Walkthroughs of challenges I've solved, covering web exploitation, binary exploitation, reverse engineering, cryptography, and more.
+- **CTF Writeups** — Walkthroughs of challenges I've solved, covering web exploitation, binary exploitation, reverse engineering and more.
 - **Offensive Tooling** — Custom scripts and tools I've built for red teaming, penetration testing, and security research.
 - **Cybersecurity docs** — Deep dives into vulnerabilities, techniques, and concepts I find worth documenting.
 - **General Blogs** — Anything else tech-related that doesn't fit neatly into the above.
+
+## Interests
+- **Rev & Pwn** — Taking binaries apart to understand exactly how they break.
+- **Penetration Testing** — Finding the gaps before someone else does.
+- **Offensive Development** — Building tools that make attacks repeatable and reliable.
+- **Blogging** — Writing it all down so the learning actually sticks.
+
 
 ## Why This Site Exists
 
