@@ -3,6 +3,9 @@ title: "Hello World — A Bit About Me"
 date: 2026-07-26 12:00:00 +0500
 categories: [Blog]
 tags: [introduction, about-me, ctf, reverse-engineering]
+img_path: /assets/blog/whoami/whoami.png
+image:
+  path: /assets/blog/whoami/whoami.png
 ---
 
 ## Hey, I'm Hamid
